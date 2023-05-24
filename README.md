@@ -1,6 +1,6 @@
 # [learnC]
 
-
+## [ch01](./ch01/NOTES.md)
 
 
 [repo]: https://github.com/PacktPublishing/Learn-C-Programming-Second-Edition
